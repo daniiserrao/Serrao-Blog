@@ -1,0 +1,56 @@
+:root {
+    background-color: #d6e1ff;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+.topBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1b8ff3;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 24px;
+    
+}
+
+.inicio {
+    display: flex;
+    flex-direction: row;
+}
+
+.Serrao {
+    text-decoration: none;
+    color: white;
+}
+
+.navegacao {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.Sobre {
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.Portifolio {
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.link3 {
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
